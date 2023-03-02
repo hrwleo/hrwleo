@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrwleo
 - 👀 I’m interested in recommendation system & nlp
-- 🌱 I’m currently learning  recoomendation system
+- 🌱 I’m currently learning  recommendation system
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> VX: stefenasd
 
